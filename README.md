@@ -11,13 +11,15 @@ Para instalar la librería debemos tener instalado pip y python.
 ### Para python =2.7
 
 ```bash
-sudo -H pip install --upgrade luma.led_matrix
+    pip install Pillow
+    sudo -H pip install --upgrade luma.led_matrix
 ```
 
 ### Para python >=3.4
 
 ```bash
-sudo -H pip3 install --upgrade luma.led_matrix
+    pip3 install Pillow
+    sudo -H pip3 install --upgrade luma.led_matrix
 ```
 
 Para otros modos de instalación o/y contemplar otros sistemas operativos
